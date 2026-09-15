@@ -8,6 +8,10 @@ A native macOS menu-bar app that scans your disk for caches, logs, and other reg
 
 No third-party dependencies. Plain Swift Package, SwiftUI + AppKit.
 
+<p align="center">
+  <img src="docs/screenshot.png" alt="Storage Cleaner main window with scan results and the menu bar extra open" width="900">
+</p>
+
 ## Features
 
 - Menu-bar app with a full review window
